@@ -1,0 +1,25 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../rtl/round_function.vhd" \
+"../../../../../../rtl/msg_schdl.vhd" \
+"../../../../../../rtl/round.vhd" \
+"../../../../../../rtl/counter.vhd" \
+"../../../../../../rtl/message_schduler.vhd" \
+"../../../../../../rtl/round_constant.vhd" \
+"../../../../../../rtl/control_unit.vhd" \
+"../../../../../../rtl/data_path.vhd" \
+"../../../../../../rtl/sha_top.vhd" \
+"../../../../../../tb/data_path_tb.vhd" \
+"../../../../../../rtl/block_chain_sha256.vhd" \
+"../../../../../../rtl/mesage_rom.vhd" \
+"../../../../../../rtl/top_blockchain.vhd" \
+"../../../../../../tb/round_constant_tb.vhd" \
+"../../../../../../tb/control_unit_tb.vhd" \
+"../../../../../../tb/message_schduler_tb.vhd" \
+"../../../../../../tb/sha_top_tb.vhd" \
+"../../../../../../tb/round_tb.vhd" \
+"../../../../../../tb/mesage_rom_tb.vhd" \
+"../../../../../../tb/top_blockchain_tb.vhd" \
+
+# Do not sort compile order
+nosort

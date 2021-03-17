@@ -1,0 +1,11 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Failure: simulation ended
+Time: 5020 ns  Iteration: 0  Process: /top_blockchain_tb/stimulus  File: E:/personals/PaklogicTech/VHDL/SHA256/tb/top_blockchain_tb.vhd
+$finish called at time : 5020 ns : File "E:/personals/PaklogicTech/VHDL/SHA256/tb/top_blockchain_tb.vhd" Line 86
+Failure: simulation ended
+Time: 10040 ns  Iteration: 0  Process: /top_blockchain_tb/stimulus  File: E:/personals/PaklogicTech/VHDL/SHA256/tb/top_blockchain_tb.vhd
+$finish called at time : 10040 ns : File "E:/personals/PaklogicTech/VHDL/SHA256/tb/top_blockchain_tb.vhd" Line 86
+Failure: simulation ended
+Time: 15060 ns  Iteration: 0  Process: /top_blockchain_tb/stimulus  File: E:/personals/PaklogicTech/VHDL/SHA256/tb/top_blockchain_tb.vhd
+$finish called at time : 15060 ns : File "E:/personals/PaklogicTech/VHDL/SHA256/tb/top_blockchain_tb.vhd" Line 86

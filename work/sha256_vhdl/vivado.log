@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Oct 12 02:16:48 2020
+# Process ID: 19044
+# Current directory: E:/personals/PaklogicTech/VHDL/SHA256/work/sha256_vhdl
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16112 E:\personals\PaklogicTech\VHDL\SHA256\work\sha256_vhdl\sha256_vhdl.xpr
+# Log file: E:/personals/PaklogicTech/VHDL/SHA256/work/sha256_vhdl/vivado.log
+# Journal file: E:/personals/PaklogicTech/VHDL/SHA256/work/sha256_vhdl\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/personals/PaklogicTech/VHDL/SHA256/work/sha256_vhdl/sha256_vhdl.xpr
+INFO: [Project 1-313] Project file moved from 'E:/personals/PaklogicTech/VHDL/SHA256/sha256_vhdl' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:07 . Memory (MB): peak = 771.188 ; gain = 151.680
+add_files -norecurse E:/personals/PaklogicTech/VHDL/SHA256/rtl/round_function.vhd
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct 12 02:24:09 2020...

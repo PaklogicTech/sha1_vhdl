@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../rtl/round_function.vhd" \
+"../../../../../../rtl/msg_schdl.vhd" \
+"../../../../../../rtl/round.vhd" \
+"../../../../../../rtl/counter.vhd" \
+"../../../../../../rtl/message_schduler.vhd" \
+"../../../../../../rtl/round_constant.vhd" \
+"../../../../../../rtl/control_unit.vhd" \
+"../../../../../../rtl/data_path.vhd" \
+"../../../../../../rtl/sha_top.vhd" \
+"../../../../../../tb/round_constant_tb.vhd" \
+"../../../../../../tb/control_unit_tb.vhd" \
+
+# Do not sort compile order
+nosort
